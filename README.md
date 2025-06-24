@@ -1,4 +1,4 @@
-# 👋 Soy Paula Terleira
+# 👩🏻‍💻 Paula Terleira
 
 🎓 Ingeniera Informática.  
 📍 Actualmente realizando el Doctorado en la Universidad de Salamanca. 
