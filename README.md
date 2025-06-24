@@ -23,7 +23,7 @@
 - 🌐 **Web**: Vue.js, Flask, MongoDB, APIs REST  
 - 📊 **Análisis de datos deportivos**: NumPy, Pandas, gráficos interactivos  
 - 📱 **Apps multiplataforma**: Flutter, Dart  
-- 🎯 **Metodologías**: Proyectos ágiles, enfoque orientado al producto
+- 🎯 **Metodologías**: Proyectos ágiles
 
 ---
 
