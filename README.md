@@ -21,7 +21,7 @@
 - 👩‍💻 **Lenguajes**: Python, JavaScript, C++, Dart, Java  
 - 🧠 **IA & Visión artificial**: PyTorch, OpenCV, scikit-learn  
 - 🌐 **Web**: Vue.js, Flask, MongoDB, APIs REST  
-- 📊 **Análisis de datos deportivos**: NumPy, Pandas, gráficos interactivos  
+- 📊 **Análisis de datos deportivos**: NumPy, Pandas, gráficos interactivos, Heatmap  
 - 📱 **Apps multiplataforma**: Flutter, Dart  
 - 🎯 **Metodologías**: Proyectos ágiles
 
