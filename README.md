@@ -2,6 +2,7 @@
 
 🎓 Ingeniera Informática.  
 📍 Actualmente realizando el Doctorado en la Universidad de Salamanca. 
+
 🎾 Apasionada por la tecnología en el deporte: visión artificial, IA y análisis de rendimiento.   
 ⚙️​ Siempre explorando nuevas formas de aplicar la informática a entornos innovadores y multidisciplinares.
 
