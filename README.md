@@ -37,12 +37,4 @@
 
 ---
 
----
 
-## 📫 Conecta conmigo
-
-- 📧 paulaterleira@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/paula-terleira-fernandez/)  
-- 🌐 [TennisInsight (prototipo)](https://tcue.usal.es/prototipos-orientados-al-mercado/fichas-prototipos-orientados-al-mercado/278-ficha-40)
-
----
